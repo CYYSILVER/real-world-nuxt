@@ -1,4 +1,5 @@
 # real-world-nuxt
+<<<<<<< HEAD
 
 > My divine Nuxt.js project
 
@@ -20,3 +21,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+=======
+nuxt practice 
+>>>>>>> 6a61649799dc48c9f7fda2a904c6868ac815dc2d
